@@ -1,0 +1,9 @@
+COMMAND: ls
+lab1_navigatin.txt
+navigatingfil_clean.txt
+navigatingfil_raw.txt
+navigatingfile.txt
+lab1_navigatin.txt
+navigatingfil_clean.txt
+navigatingfil_raw.txt
+navigatingfile.txt
