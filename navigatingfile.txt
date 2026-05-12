@@ -1,21 +1,0 @@
-Script started on 2026-05-12 06:01:11+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="101" LINES="34"]
-Enhanced logging active (v3.0) | Session: 35fd9b20...
-Instance: i-0619dbf2011c86ed0 | Container: 122187
-[?2004h]0;ubuntu@ip-172-31-10-239: ~/Linux-Labs[01;32mubuntu@ip-172-31-10-239[00m:[01;34m~/Linux-Labs[00m$ ls
-[?2004lnavigatingfile.txt
-[?2004h]0;ubuntu@ip-172-31-10-239: ~/Linux-Labs[01;32mubuntu@ip-172-31-10-239[00m:[01;34m~/Linux-Labs[00m$ pwd
-[?2004l/home/ubuntu/Linux-Labs
-[?2004h]0;ubuntu@ip-172-31-10-239: ~/Linux-Labs[01;32mubuntu@ip-172-31-10-239[00m:[01;34m~/Linux-Labs[00m$ f -d[K[K[K[Kdf -h
-[?2004lFilesystem       Size  Used Avail Use% Mounted on
-/dev/root         29G  7.1G   21G  26% /
-tmpfs            1.9G  8.0K  1.9G   1% /dev/shm
-tmpfs            768M  1.3M  767M   1% /run
-tmpfs            5.0M     0  5.0M   0% /run/lock
-efivarfs         128K  4.1K  119K   4% /sys/firmware/efi/efivars
-/dev/nvme0n1p16  881M  240M  580M  30% /boot
-/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
-tmpfs            384M  128K  384M   1% /run/user/1000
-[?2004h]0;ubuntu@ip-172-31-10-239: ~/Linux-Labs[01;32mubuntu@ip-172-31-10-239[00m:[01;34m~/Linux-Labs[00m$ exit
-[?2004lexit
-
-Script done on 2026-05-12 06:01:41+00:00 [COMMAND_EXIT_CODE="0"]
